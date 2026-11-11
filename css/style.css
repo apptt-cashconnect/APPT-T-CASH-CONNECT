@@ -1005,7 +1005,7 @@ h1, h2, h3, h4, h5 {
   width: 100%;
   overflow: hidden;
   background: #e6f4ea; /* Optional light green background */
-  padding: 20px 0;
+  padding: 20px 20px;
 }
 
 .slider-wrapper {
@@ -1021,7 +1021,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .logo-slider img {
-  height: 80px;
+  height: 10px;
   transition: transform 0.3s ease;
 }
 
